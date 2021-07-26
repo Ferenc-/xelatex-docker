@@ -5,8 +5,11 @@ csquotes
 doublestroke
 enumitem
 fontspec
+koma-script
 latexmk
 mathtools
+marvosym
+moderncv
 pagecolor
 parskip
 pgfopts
